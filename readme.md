@@ -1,0 +1,2 @@
+Coding dojo project folders
+
